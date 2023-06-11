@@ -12,7 +12,7 @@ I learned and improved my skills as a web developer in the summer of 2020. The s
 
 
  <h1>Technologies and frameworks</h1>
-IntelliJ IDEA |  NetBeans  | Android Studio  | Visual Studio
+IntelliJ IDEA |  NetBeans  | Android Studio  | Visual Studio  | AWS
 <br>
 <!---
 earhire/earhire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
